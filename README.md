@@ -12,7 +12,7 @@ Python Workshop
 
   `pip install -r requirements.txt`
 
-- The content of this repo is organized in the following directories
+- The content of this repo is organized in the following directories:
 
 ```
   Data\
@@ -20,14 +20,14 @@ Python Workshop
      Energy\ - csv used in renewable energy exercises
      Tourism\ - csv used for the tourism exercises
 
-     ML – Part 1.ipynb
-     ML – Part 2.ipynb
+  ML – Part 1.ipynb
+  ML – Part 2.ipynb
 
-     README
-     LICENSE
-     requirements.txt
+  README
+  LICENSE
+  requirements.txt
 ```
 
 - The weather data files that will be used in the exercises are bigger than GitHub's filesize limit, you can download them in a separate link. Please save these files in the `data\weather` directory:
 
-https://meteogroup.box.com/v/workshop-input-data
+  https://meteogroup.box.com/v/workshop-input-data
