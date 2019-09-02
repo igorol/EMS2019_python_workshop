@@ -1,5 +1,5 @@
 
-Python Workshop
+https://www.ems2019.eu/plenaries_and_events/python_workshop.html
 
 # Python: Machine Learning applications for weather-related problems
 # Training Workshop, 8 September 2019, Copenhagen
