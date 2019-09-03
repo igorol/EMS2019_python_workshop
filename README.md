@@ -31,3 +31,6 @@ https://www.ems2019.eu/plenaries_and_events/python_workshop.html
 - The weather data files that will be used in the exercises are bigger than GitHub's filesize limit, you can download them in a separate link. Please save these files in the `data\weather` directory:
 
   https://meteogroup.box.com/v/workshop-input-data
+
+  - era5_EU_monthly.nc : Weather data for the Machine Learning 1st exercise
+  - era5_DE_hourly_YYYY.nc : Weather data for the Machine Learning 2nd exercise
