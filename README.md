@@ -28,7 +28,7 @@ https://www.ems2019.eu/plenaries_and_events/python_workshop.html
   requirements.txt
 ```
 
-- The weather data files that will be used in the exercises are bigger than GitHub's filesize limit, you can download them in a separate link. Please save these files in the `data\weather` directory:
+- Some of the weather data files that will be used in the exercises are bigger than GitHub's filesize limit, you can download them in a separate link. Please save these files in the `data\weather` directory:
 
   https://meteogroup.box.com/v/workshop-input-data
 
