@@ -20,6 +20,7 @@ https://www.ems2019.eu/plenaries_and_events/python_workshop.html
      Energy\ - csv used in renewable energy exercises
      Tourism\ - csv used for the tourism exercises
 
+  CDSAPI_examples.ipynb   
   ML – Part 1.ipynb
   ML – Part 2.ipynb
 
