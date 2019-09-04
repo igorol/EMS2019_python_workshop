@@ -9,4 +9,3 @@ cartopy
 sklearn
 tensorflow
 cfgrib
-eccodes
