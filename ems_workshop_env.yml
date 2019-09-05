@@ -113,5 +113,4 @@ dependencies:
     - widgetsnbextension==3.5.1
     - wrapt==1.11.2
     - xarray==0.12.3
-prefix: /Users/igoro/anaconda3/envs/ems_workshop
 
