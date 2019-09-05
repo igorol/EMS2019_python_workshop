@@ -6,11 +6,13 @@ https://www.ems2019.eu/plenaries_and_events/python_workshop.html
 
 - Welcome to the workshop repository. We recommend you clone and follow the instructions in this README file before the workshop day.
 
-- It is also recommended that you configure a virtual environment for this project. If you are not familiar with virtual envs, see help [in this link](https://realpython.com/python-virtual-environments-a-primer/)
+- It is also recommended that you configure a virtual environment for this project. The most efficient way to install is to use to `conda` tool:
+  - Install anaconda **Python 3.7 version** for your system (if you don't have it already): https://www.anaconda.com/distribution/#download-section
+  - create a new environment using the yml file provided:
+    - `conda env create -f ems_workshop_env.yml`
+    - `conda activate ems_workshop`
+  - Alternatively, you can use `pip install -r requirements.txt`, but some users reported issues with some libraries using pip.
 
-- Install all the necessary python modules for this course with the following command:
-
-  `pip install -r requirements.txt`
 
 - The content of this repo is organized in the following directories:
 
