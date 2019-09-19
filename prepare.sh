@@ -1,0 +1,11 @@
+conda install -c conda-forge --yes xarray
+conda install -c conda-forge --yes pandas
+conda install -c conda-forge --yes matplotlib
+conda install -c conda-forge --yes seaborn
+conda install -c conda-forge --yes cdsapi
+conda install -c conda-forge --yes regionmask
+conda install -c conda-forge --yes numpy
+conda install -c conda-forge --yes cartopy
+conda install -c conda-forge --yes scikit-learn
+conda install -c conda-forge --yes tensorflow
+conda install -c conda-forge --yes cfgrib

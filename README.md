@@ -9,11 +9,13 @@ https://www.ems2019.eu/plenaries_and_events/python_workshop.html
 - It is also recommended that you configure a virtual environment for this project. The most efficient way to install is to use to `conda` tool:
   - Install anaconda **Python 3.7 version** for your system (if you don't have it already): https://www.anaconda.com/distribution/#download-section
   - create a new environment using the yml file provided:
-    - `conda env create -f ems_workshop_env.yml`
-    - `conda activate ems_workshop`
-  - Alternatively, you can use `pip install -r requirements.txt`, but some users reported issues with some libraries using pip.
-  - After installing all libraries, make an account on [Climate Data Store](https://cds.climate.copernicus.eu/#!/home). You will also need to install the CDS API key (instructions are [here](https://cds.climate.copernicus.eu/api-how-to))
+    - `conda create -n ml_workshop python=3.7 anaconda`
+  - activate the env you just created
+    - `conda activate ml_workshop`
+  - install the necessary packages for this course using the `prepare.sh` script:
+    - `chmod +x prepare.sh; ./prepare.sh`
 
+  - After installing all libraries, make an account on [Climate Data Store](https://cds.climate.copernicus.eu/#!/home). You will also need to install the CDS API key (instructions are [here](https://cds.climate.copernicus.eu/api-how-to))
 
 - The content of this repo is organized in the following directories:
 
