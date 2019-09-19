@@ -8,9 +8,9 @@ https://www.ems2019.eu/plenaries_and_events/python_workshop.html
 
 - It is also recommended that you configure a virtual environment for this project. The most efficient way to install is to use to `conda` tool:
   - Install anaconda **Python 3.7 version** for your system (if you don't have it already): https://www.anaconda.com/distribution/#download-section
-  - create a new environment using the yml file provided:
+  - create a new environment:
     - `conda create -n ml_workshop python=3.7 anaconda`
-  - activate the env you just created
+  - activate the env you just created:
     - `conda activate ml_workshop`
   - install the necessary packages for this course using the `prepare.sh` script:
     - `chmod +x prepare.sh; ./prepare.sh`
