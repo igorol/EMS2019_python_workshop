@@ -14,8 +14,10 @@ https://www.ems2019.eu/plenaries_and_events/python_workshop.html
     - `conda activate ml_workshop`
   - install the necessary packages for this course using the `prepare.sh` script:
     - `chmod +x prepare.sh; ./prepare.sh`
+  
+  - clone this repository to your local machine: `git clone git@github.com:igorol/EMS2019_python_workshop.git`
 
-  - After installing all libraries, make an account on [Climate Data Store](https://cds.climate.copernicus.eu/#!/home). You will also need to install the CDS API key (instructions are [here](https://cds.climate.copernicus.eu/api-how-to))
+  - After installing all libraries, make an account on [Climate Data Store](https://cds.climate.copernicus.eu/#!/home). You will also need to install the CDS API key (instructions are [here](https://cds.climate.copernicus.eu/api-how-to))[optional]
 
 - The content of this repo is organized in the following directories:
 
